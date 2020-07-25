@@ -1,6 +1,7 @@
 # blog
 **blog posts**
 >这是coderxm上传的博客文章，markdown版，以后coderxm都会用github收录技术文章！
+>This is a blog post uploaded by coderxm, markdown version, and coderxm will use github to include technical articles in the future!
 
 #### 希望大家还是多多关注我的微信公众号：小码之光
 和技术有关的文章及相关的投稿也会第一时间在公众号展示给大家
@@ -13,10 +14,10 @@
 [GitHub](https://github.com/coderxm/)
 
 ```          	
-          __      __    __   __      __       __   
+         __      __    __   __      __      __   
         /  /   __| |    \ \ / /     / /\\    / \	  
-       |  (   /(_）|     \\/ /     / /	\\  //\ \	   
-       \__\   \___|     /_/\_\    /_/	 \\//  \_\
+       |  (   /(_）|     \\/ /     / /  \\  //\ \	   
+       \___\  \____|    /_/\_\    /_/	 \\//  \_\
 
 ```
         
